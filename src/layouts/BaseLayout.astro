@@ -11,7 +11,7 @@ const {
   showSubscribe = true,
 } = Astro.props;
 const useImage = image ?? '/images/fallback.png';
-const fullImage = `https://daily-dev-tips.com${useImage}`;
+const fullImage = `https://nicklewis.blog${useImage}`;
 const canonicalURL = Astro.canonicalURL;
 ---
 
@@ -22,21 +22,21 @@ const canonicalURL = Astro.canonicalURL;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="monetization" content="$ilp.uphold.com/2gJj2MkgGJ64" />
-    <link rel="alternate" type="application/rss+xml" href="https://daily-dev-tips.com/sitemap.xml">
+    <link rel="alternate" type="application/rss+xml" href="https://nicklewis.blog/sitemap.xml">
     <link
       rel="webmention"
-      href="https://webmention.io/daily-dev-tips.com/webmention"
+      href="https://webmention.io/nicklewis.blog/webmention"
     />
-    <link rel="pingback" href="https://webmention.io/daily-dev-tips.com/xmlrpc"
+    <link rel="pingback" href="https://webmention.io/nicklewis.blog/xmlrpc"
     />
     <meta property="og:site_name" content="Daily Dev Tips" />
     <meta property="og:title" content={title} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL.href} />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta property="twitter:domain" content="daily-dev-tips.com" />
+    <meta property="twitter:domain" content="nicklewis.blog" />
     <meta name="twitter:title" content={title} />
-    <meta name="twitter:creator" content="@DailyDevTips1" />
+    <meta name="twitter:creator" content="@nicklewis" />
     <meta property="twitter:url" content={canonicalURL.href} />
     {description && (
 <meta name="description" content={description} />
@@ -45,8 +45,8 @@ const canonicalURL = Astro.canonicalURL;
 )}
   <meta property="og:image" content={fullImage} />
   <meta name="twitter:image" content={fullImage} />
-  <meta property="og:image:alt" content="Page image for Daily Dev Tips" />
-  <meta name="twitter:image:alt" content="Page image for Daily Dev Tips" />
+  <meta property="og:image:alt" content="Page image for Nick Lewis" />
+  <meta name="twitter:image:alt" content="Page image for Nick Lewis" />
     {post && (
       <script
         type='application/ld+json'
@@ -56,17 +56,17 @@ const canonicalURL = Astro.canonicalURL;
                                                              "headline": "${title}",
                                                              "datePublished": "${date}",
                                                              "dateModified": "${date}",
-                                                             "image": "https://daily-dev-tips.com/images/logo.png",
+                                                             "image": "https://nicklewis.blog/images/logo.png",
                                                              "author": {
                                                                "@type": "Person",
-                                                               "name": "Chris Bongers"
+                                                               "name": "Nick Lewis"
                                                              },
                                                               "publisher": {
                                                                "@type": "Organization",
-                                                               "name": "Daily Dev Tips",
+                                                               "name": "Nick Lewis",
                                                                "logo": {
                                                                  "@type": "ImageObject",
-                                                                 "url": "https://daily-dev-tips.com/images/logo.png"
+                                                                 "url": "https://nicklewis.blog/images/logo.png"
                                                                }
                                                              },
                                                              "description": "${description}"
@@ -112,9 +112,9 @@ const canonicalURL = Astro.canonicalURL;
       </div>
       <span class="text-gray-400 h-card"
         >Made with ❤️ by <a
-          href="https://chrisbongers.com"
+          href="https://nicklewis.blog"
           class="u-url u-uid"
-          rel="external">Chris Bongers</a
+          rel="external">Nick Lewis</a
         >.</span
       >
       <nav class="my-8" aria-label="Footer">
@@ -128,7 +128,7 @@ const canonicalURL = Astro.canonicalURL;
           <li class="px-1.5">
             <a
               class="hover:underline decoration-barbie underline-offset-2"
-              href="https://github.com/rebelchris"
+              href="https://github.com/nickeblewis"
               target="_blank"
               rel="noopener nofollow">GitHub</a
             >
@@ -136,7 +136,7 @@ const canonicalURL = Astro.canonicalURL;
           <li class="px-1.5">
             <a
               class="hover:underline decoration-barbie underline-offset-2"
-              href="https://codepen.io/rebelchris"
+              href="https://codepen.io/nicklewis"
               target="_blank"
               rel="noopener nofollow">CodePen</a
             >
@@ -144,7 +144,7 @@ const canonicalURL = Astro.canonicalURL;
           <li class="px-1.5">
             <a
               class="u-url hover:underline decoration-barbie underline-offset-2"
-              href="https://twitter.com/DailyDevTips1"
+              href="https://twitter.com/nicklewis"
               target="_blank"
               rel="noopener nofollow me">Twitter</a
             >
