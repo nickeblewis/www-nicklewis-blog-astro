@@ -20,23 +20,8 @@ const topPost = allPosts.filter((a) => a.top);
   <header class='container mx-auto my-6'>
     <h1 class='mb-8 text-4xl font-extrabold text-gray-900 dark:text-white'>
       Nick Lewis: Programming, Photography and Music
-    </h1>
-    <p class='text-xl leading-8 text-gray-600 dark:text-slate-400'>
-      Hey there 👋 I'm Chris Bongers <picture
-        ><img
-          loading='lazy'
-          width='24'
-          height='24'
-          class='inline w-6 h-6 rounded-full'
-          src='/assets/about_small.png'
-          alt='Chris Bongers profile picture'
-        />
-      </picture> a full-stack remote web developerrrrrrrr with 15+ years of experience,
-      and I'll help you become a web developer with bite-sized dev tips.
-    </p>
+    </h1>   
   </header>
-  <Subscribe />
-  <Stats />
 
   <section
     class='border-gray-200 md:bg-white md:dark:bg-dark md:-mx-4 border-top-0 md:border-t md:dark:border-slate-700 md:pt-8'
@@ -84,6 +69,5 @@ const topPost = allPosts.filter((a) => a.top);
         >See all {allPosts.length} articles
       </a>
     </div>
-  </section>
-  <Tweets />
+  </section>  
 </BaseLayout>
