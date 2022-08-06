@@ -12,4 +12,4 @@ tags:
   - history
 ---
 
-Adding photos and text later
+Adding photos and text later etc
