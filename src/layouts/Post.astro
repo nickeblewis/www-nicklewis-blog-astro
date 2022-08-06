@@ -27,7 +27,7 @@ const isoDate = articleDate.toISOString();
 >
   <header class='container mx-auto my-6 text-center'>
     <h1
-      class='inline px-2 text-3xl font-bold text-white break-words bg-purple-600 rounded-md box-decoration-clone'
+      class='inline px-2 text-3xl font-bold text-white break-words rounded-md box-decoration-clone'
       set:html={content.title}
     >
     </h1>
@@ -155,7 +155,7 @@ const isoDate = articleDate.toISOString();
     >
       <nav class='mb-2' aria-label='Tag'>
         <h3 class='mb-4 text-xl font-medium leading-6 dark:text-white'>
-          Discover more tips
+          Discover more content
         </h3>
         <ul class='flex'>
           {content.tags.map((tag) => <Tag tag={tag} />)}
