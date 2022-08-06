@@ -51,7 +51,7 @@ const fetchSubscribers = async () => {
 };
 
 const fetchWebmentions = async (since, perPage = 10000) => {
-  let url = `${API}/mentions.jf2?domain=daily-dev-tips.com&token=${PUBLIC_WEBMENTION_TOKEN}&per-page=${perPage}`;
+  let url = `${API}/mentions.jf2?domain=nicklewis.blog&token=${PUBLIC_WEBMENTION_TOKEN}&per-page=${perPage}`;
   if (since) url += `&since=${since}`;
   const response = await fetch(url);
   if (response.ok) {

@@ -13,7 +13,7 @@ import { dateFilter } from '../lib/dateFilter.js';
 const { content } = Astro.props;
 const canonicalURL = Astro.canonicalURL;
 const mdURL = canonicalURL.pathname.replace(/\/$/, '.md');
-const tmpUrl = `https://daily-dev-tips.com${canonicalURL.pathname}`;
+const tmpUrl = `https://nicklewis.blog${canonicalURL.pathname}`;
 const articleDate = new Date(content.date);
 const isoDate = articleDate.toISOString();
 ---
@@ -71,7 +71,7 @@ const isoDate = articleDate.toISOString();
         <slot></slot>
         <div class='text-right'>
           <a
-            href=`https://github.com/rebelchris/daily-dev-tips/edit/master/src/pages${mdURL}`
+            href=`https://github.com/nickeblewis/www-nicklewis-blog/edit/master/src/pages${mdURL}`
             target='_blank'
             rel='noreferrer noopener'
             >🛠 Edit on GitHub
@@ -91,7 +91,7 @@ const isoDate = articleDate.toISOString();
       </span>
     </div>
     <a
-      href=`https://twitter.com/intent/tweet/?text=Chris%20wrote%20this%20amazing%20article&url=${tmpUrl}&via=DailyDevTips1`
+      href=`https://twitter.com/intent/tweet/?text=Nick%20wrote%20this%20post&url=${tmpUrl}&via=nicklewis`
       target='_blank'
       rel='noopener noreferrer'
       class='bg-[#1d9bf0] hover:bg-blue-400 transition-colors text-white p-3 rounded-xl text-sm inline-flex items-center'
@@ -170,7 +170,7 @@ const isoDate = articleDate.toISOString();
     </div>
   </section>
   <section class='mb-10'>
-    <Subscribe />
+    
     <Stats />
   </section>
 </BaseLayout>

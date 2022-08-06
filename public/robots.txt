@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://daily-dev-tips.com/sitemap.xml
+Sitemap: https://nicklewis.blog/sitemap.xml
