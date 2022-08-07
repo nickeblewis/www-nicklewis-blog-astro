@@ -12,12 +12,12 @@ tags:
   - history
 ---
 
-On Fridays during August we have the afternoon off, so that we can spend more time with our families outdoors and step away from our desks. I chose to go for a photo walk and I shall do the same for the next few weeks and find a whole bunch of new places to explore along the way.
+On Fridays during August we have the afternoon off, so that we can spend more time with our families outdoors and step away from our desks. I chose to go for a photo walk and I shall do the same for the next few weeks and hope to find a whole bunch of new places to explore along the way.
 
-The title gives the game away here! I chose to tak a walk around the Roman Wall at Silchester
+The title gives the game away here! I chose to take a walk around the Roman Wall at Silchester, the entire circuit, carrying a bottle of water, as the temperature was a chilly 23 Celsius, compared to near 30 today.
 
 
-![](/images/_DSC1842.jpeg)
+![Sheep of the Serengeti!](/images/_DSC1842.jpeg)
 
 ![](/images/_DSC1844.jpeg)
 
