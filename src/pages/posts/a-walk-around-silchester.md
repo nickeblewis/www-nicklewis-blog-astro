@@ -17,7 +17,8 @@ On Fridays during August we have the afternoon off, so that we can spend more ti
 The title gives the game away here! I chose to take a walk around the Roman Wall at Silchester, the entire circuit, carrying a bottle of water, as the temperature was a chilly 23 Celsius, compared to near 30 today.
 
 
-![Sheep of the Serengeti!](/images/_DSC1842.jpeg)
+![Sheep of the Serengeti](/images/_DSC1842.jpeg)
+The scene reminded me of foreign climbs, which these days, seem more familiar than ever before with every, field, garden and park looking as parched as the desert. You see landscapes like this in all of the hot places,Spain perhaps but in those cases you would most likely see more goats than sheep!
 
 ![](/images/_DSC1844.jpeg)
 
@@ -26,6 +27,7 @@ The title gives the game away here! I chose to take a walk around the Roman Wall
 ![](/images/_DSC1846.jpeg)
 
 ![](/images/_DSC1847.jpeg)
+The last photo in this set, is of the same tree and section of the wall that I photographed in November 2021 when it was bare and the landscape looked very different. 
 
 ![](/images/_DSC1848.jpeg)
 
