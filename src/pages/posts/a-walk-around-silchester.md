@@ -16,7 +16,18 @@ On Fridays during August we have the afternoon off, so that we can spend more ti
 
 The title gives the game away here! I chose to take a walk around the Roman Wall at Silchester, the entire circuit, carrying a bottle of water, as the temperature was a chilly 23 Celsius, compared to near 30 today.
 
+Calleva Atrebatum was an Iron Age oppidum, the capital of the Atrebates tribe. It then became a walled town in the Roman province of Britannia at a major crossroads of the Roman roads of Britain. The modern village of Silchester in Hampshire, England, is about a mile to the west of the site.
 
+## St Mary the Virgin, Silchester
+![](/images/_DSC1829.jpeg)
+Looking for perspectives in photography leads to many different possibilities, as I had tried the other angle where you look along the pews but that hadn't worked in this case. So I tried this angle, I wanted to pick up on the prayer cushions (is that what they are called?? Sorry not a church goer but love churches).
+![](/images/_DSC1830.jpeg)
+
+![](/images/_DSC1835.jpeg)
+It is documented that this 12th Century Christian church was built on a pagan site and prior to that, some 1100 years beforehand would have been part of Roman Silchester. Some of the materials used to build the church were borrowed from the nearby Roman wall.
+![](/images/_DSC1837.jpeg)
+
+## Waking the Roman Wall
 ![Sheep of the Serengeti](/images/_DSC1842.jpeg)
 The scene reminded me of foreign climes, which these days, seem more familiar than ever before with every, field, garden and park looking as parched as the desert. You see landscapes like this in all of the hot places,Spain perhaps but in those cases you would most likely see more goats than sheep!
 
