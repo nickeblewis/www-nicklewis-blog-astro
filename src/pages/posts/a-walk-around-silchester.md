@@ -20,7 +20,7 @@ Calleva Atrebatum was an Iron Age oppidum, the capital of the Atrebates tribe. I
 
 ## St Mary the Virgin, Silchester
 ![](/images/_DSC1829.jpeg)
-Looking for perspectives in photography leads to many different possibilities, as I had tried the other angle where you look along the pews but that hadn't worked in this case. So I tried this angle, I wanted to pick up on the prayer cushions (is that what they are called?? Sorry not a church goer but love churches).
+Looking for perspectives in photography leads to many different possibilities, as I had tried the other angle where you look along the pews but that hadn't worked in this case. So I tried this angle, I wanted to pick up on the prayer cushions.
 ![](/images/_DSC1830.jpeg)
 
 ![](/images/_DSC1835.jpeg)
@@ -34,8 +34,10 @@ The scene reminded me of foreign climes, which these days, seem more familiar th
 ![](/images/_DSC1844.jpeg)
 
 ![](/images/_DSC1845.jpeg)
+Looking out across this field, I imagined how it must have looked as a town. There have been many excavations on this site since the Victorians began digging places up from Hadrian's Wall down to Herculaneum, Italy. My Wife and I once came across a dig that was taking place on the far side of the field pictured above. It was very fascinating. I can recall it being a hot summer much like this one, they had a number of gantries set up across trenches where walls and streets could be seen. Just small sections of them, as the Archaelogical team are given an area so big to measure out and down they dig. A little bit of poetry there for you!
 
-![](/images/_DSC1846.jpeg)
+Many of the finds can be seen at Reading museum, if you get the chance to go, do go, look out for the Eagle!
+ ![](/images/_DSC1846.jpeg)
 
 ![](/images/_DSC1847.jpeg)
 
