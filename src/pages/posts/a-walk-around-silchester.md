@@ -18,7 +18,7 @@ The title gives the game away here! I chose to take a walk around the Roman Wall
 
 
 ![Sheep of the Serengeti](/images/_DSC1842.jpeg)
-The scene reminded me of foreign climbs, which these days, seem more familiar than ever before with every, field, garden and park looking as parched as the desert. You see landscapes like this in all of the hot places,Spain perhaps but in those cases you would most likely see more goats than sheep!
+The scene reminded me of foreign climes, which these days, seem more familiar than ever before with every, field, garden and park looking as parched as the desert. You see landscapes like this in all of the hot places,Spain perhaps but in those cases you would most likely see more goats than sheep!
 
 ![](/images/_DSC1844.jpeg)
 
@@ -27,10 +27,10 @@ The scene reminded me of foreign climbs, which these days, seem more familiar th
 ![](/images/_DSC1846.jpeg)
 
 ![](/images/_DSC1847.jpeg)
-The last photo in this set, is of the same tree and section of the wall that I photographed in November 2021 when it was bare and the landscape looked very different. 
+
 
 ![](/images/_DSC1848.jpeg)
-
+The last photo in this set, is of the same tree and section of the wall that I photographed in November 2021 when it was bare and the landscape looked very different. 
 ![](/images/_DSC1849.jpeg)
 
 ![](/images/_DSC1850.jpeg)
