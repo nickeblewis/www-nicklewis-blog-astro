@@ -14,7 +14,6 @@ tags:
 
 Adding photos and text later etc
 
-![](/images/_DSC1817.jpeg)
 
 ![](/images/_DSC1842.jpeg)
 
