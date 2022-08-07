@@ -50,7 +50,7 @@ The last photo in this set, is of the same tree and section of the wall that I p
 
 I always enjoy going for the close-up shots. More often than not there is a lot to see in these mini-landscapes than there may be in the wide vistas around you. It's all part of the story we tell as photographers, a part of the narrative.
 ![](/images/_DSC1856.jpeg)
-
+I was trying to capture the impressions this section of the wall presented to me, as having 
 ![](/images/_DSC1858.jpeg)
 
 ![](/images/_DSC1859.jpeg)
@@ -60,11 +60,12 @@ I always enjoy going for the close-up shots. More often than not there is a lot 
 ![](/images/_DSC1863.jpeg)
 
 ![](/images/_DSC1864.jpeg)
-
+At first they were ignoring me and then all of the sudden they realised that they were on camera and posed. I think initially they were being sheepish... ok, I'll stick to photography and not stand-up comedy...
 ![](/images/_DSC1866.jpeg)
+I love this one, it's got a nice flow and elements to it. If only the sky was more inspiring.
 
 ![](/images/_DSC1867.jpeg)
-
+The berries were looking plentiful but we've had no rain for a long time, so they may not be any good for human consumption this year. More for the wildlife I guess?
 ![](/images/_DSC1868.jpeg)
 
 ![](/images/_DSC1884.jpeg)
