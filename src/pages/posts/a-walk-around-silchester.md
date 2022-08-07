@@ -48,6 +48,7 @@ The last photo in this set, is of the same tree and section of the wall that I p
 
 ![](/images/_DSC1850.jpeg)
 
+I always enjoy going for the close-up shots. More often than not there is a lot to see in these mini-landscapes than there may be in the wide vistas around you. It's all part of the story we tell as photographers, a part of the narrative.
 ![](/images/_DSC1856.jpeg)
 
 ![](/images/_DSC1858.jpeg)
