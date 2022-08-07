@@ -12,7 +12,9 @@ tags:
   - history
 ---
 
-Adding photos and text later etc
+On Fridays during August we have the afternoon off, so that we can spend more time with our families outdoors and step away from our desks. I chose to go for a photo walk and I shall do the same for the next few weeks and find a whole bunch of new places to explore along the way.
+
+The title gives the game away here! I chose to tak a walk around the Roman Wall at Silchester
 
 
 ![](/images/_DSC1842.jpeg)
