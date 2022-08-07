@@ -67,15 +67,15 @@ I love this one, it's got a nice flow and elements to it. If only the sky was mo
 ![](/images/_DSC1867.jpeg)
 The berries were looking plentiful but we've had no rain for a long time, so they may not be any good for human consumption this year. More for the wildlife I guess?
 ![](/images/_DSC1868.jpeg)
-
+I was fascinated by the sign here for the [Camino Ingles](https://caminoways.com/camino-ingles/) which is a long distance pilgrimage route to Santiago de Compostela in Spain. I've long been fascinated by this, long before there have been two celebrity shows on British TV in connection with it.
 ![](/images/_DSC1884.jpeg)
-
+I was having some trouble taking photos handheld in the shady wooded section of my walk. Maybe my camera is playing up or was it just the craftsman blaming his tools. Anyway I cranked up the ISO a tad and grabbed some pictures of the wall from it's base. You can see the blend of materials here, stone, flint and some sand for the mortar. The reason for this would have been because both the Romans and the Iron age tribe worked together in developing the town and it's defensive wall.
 ![](/images/_DSC1888.jpeg)
 
 ![](/images/_DSC1890.jpeg)
-
+This photo is a bit naff, but I took it to try an show the ditch, which 2000 or so years ago would have been about another 2 feet deeper. This follows the walls circumference, I believe the whole way around, most definitely a big proportion of it.
 ![](/images/_DSC1904.jpeg)
-
+The old tree growing out through the wall. Q: Is the tree as old as the wall? A: I don't know lol!
 ![](/images/_DSC1908.jpeg)
 
 ![](/images/_DSC1910.jpeg)
