@@ -48,5 +48,23 @@ Adding photos and text later etc
 
 ![](/images/_DSC1867.jpeg)
 
+![](/images/_DSC1868.jpeg)
 
+![](/images/_DSC1884.jpeg)
+
+![](/images/_DSC1888.jpeg)
+
+![](/images/_DSC1890.jpeg)
+
+![](/images/_DSC1904.jpeg)
+
+![](/images/_DSC1908.jpeg)
+
+![](/images/_DSC1910.jpeg)
+
+![](/images/_DSC1912.jpeg)
+
+![](/images/_DSC1916.jpeg)
+
+![](/images/_DSC1917.jpeg)
 
