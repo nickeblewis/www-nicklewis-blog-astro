@@ -8,7 +8,6 @@ title: 'Going Electric?'
 metaTitle: "That time we chose our first EV"
 metaDesc: "In 2021 we set out to find our first electric car which required a lot of test drive bookings!"
 date: 2021-05-02T16:00:00Z
-top: true
 image: /images/031EDBD6-E210-4E7D-B543-CD5D40B885FA_hain8u.jpg
 what3words: ''
 ---

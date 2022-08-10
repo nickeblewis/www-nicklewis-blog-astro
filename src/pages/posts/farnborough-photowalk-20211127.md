@@ -5,7 +5,6 @@ metaTitle: "Farnborough Photowalk - Aviation Heritage"
 metaDesc: "Farnborough Photowalk - Aviation Heritage"
 image: /images/_DSC7890.jpg
 date: 2021-11-07T03:00:00.000Z
-top: true
 tags:
   - photography
   - history
