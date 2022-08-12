@@ -30,5 +30,5 @@ Anyway back to the original conversation thread. Learning something all over aga
 
 This is of course going to be iPad biased but you can use any keyboard you may already have, in my case it's an old Yamaha CS2x which I've connected to my iPad via an iRig 2 MIDI interface. Then for the iPad I use an OQeeM USB interface, so that the USB connector can be plugged in, plus I've got a headphone jack to listen to what I'm playing!
 
-You could of course here, connect to an audio interface and onto some studio monitor speakers but I'll save that for the future, as those items are on my shopping list still right now.
+You could of course at this point, connect to an audio interface and onto some studio monitor speakers but I'll save that for the future, as those items are on my shopping list still right now.
 
