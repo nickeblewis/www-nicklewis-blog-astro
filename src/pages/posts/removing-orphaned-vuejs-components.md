@@ -4,8 +4,7 @@ title: 'VueJS - Removing dead code from your VueJS project'
 metaTitle: "How to remove unused components from your VueJS codebase"
 metaDesc: "VueJS projects grow over time and more often than not we end up with old component files that are no longer needed. How can we identify them in one go?"
 image: /images/pierre-bamin-5h9f1dqE8XM-unsplash.jpg
-date: 2022-08-23T11:11:00.000Z
-top: true
+date: 2022-08-23
 tags:
   - javascript
   - vuejs
