@@ -9,7 +9,7 @@ const allPosts = (await getAllPosts())
   .filter((a) => new Date(a.date) <= new Date())
   .sort((a, b) => b.date.localeCompare(a.date));
 const latest = allPosts.filter((post) => !post.draft).slice(0, 4);
-const topPost = allPosts.filter((a) => a.top);
+const topPost = allPosts.filter((post) => !post.draft).filter((a) => a.top);
 ---
 
 <BaseLayout
@@ -17,9 +17,9 @@ const topPost = allPosts.filter((a) => a.top);
   description='This is where the three technologies come together and I want to articulate the ways you can explore all of these through the power of code.'
   showSubscribe={false}
 >
-  <header class='container mx-auto my-6'>
-    <h1 class='mb-8 text-4xl font-extrabold text-slate-400 dark:text-white'>
-      Programming, Photography and Music
+  <header class='container mx-auto my-6 text-center'>
+    <h1 class='inline px-2 text-2xl font-bold text-yellow-400 break-words rounded-md box-decoration-clone'>
+      Programming / Photography / Music / Tech / Discovery
     </h1>   
   </header>
 
