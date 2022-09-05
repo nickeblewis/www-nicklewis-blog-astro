@@ -8,7 +8,7 @@ import { getAllPosts } from '../lib/posts.js';
 const allPosts = (await getAllPosts())
   .filter((a) => new Date(a.date) <= new Date())
   .sort((a, b) => b.date.localeCompare(a.date));
-const latest = allPosts.slice(0, 4).filter((post) => !post.draft);
+const latest = allPosts.filter((post) => !post.draft).slice(0, 4);
 const topPost = allPosts.filter((a) => a.top);
 ---
 

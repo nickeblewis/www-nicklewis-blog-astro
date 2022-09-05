@@ -7,6 +7,7 @@ import { getAllPosts } from '../../lib/posts.js';
 
 export async function getStaticPaths({ paginate }) {
   const allPosts = (await getAllPosts())
+    .filter((post) => !post.draft)
     .filter((a) => new Date(a.date) <= new Date())
     .sort((a, b) => b.date.localeCompare(a.date));
   const allTags = [

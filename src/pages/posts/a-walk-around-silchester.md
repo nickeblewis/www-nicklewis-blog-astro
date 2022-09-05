@@ -4,7 +4,7 @@ title: 'A walk around the Roman wall of Silchester'
 metaTitle: "A walk around Silchester one lovely hot Friday afternoon this Summer"
 metaDesc: "Silchester is a place I've loved for life, since the first time I visited as a child. Now it's just 14 minutes from home. Lots of photos. I took 96!"
 image: /images/_DSC1844.jpeg
-date: 2022-08-06T15:37:00.000Z
+date: 2022-08-06
 tags:
   - hampshire
   - roman
