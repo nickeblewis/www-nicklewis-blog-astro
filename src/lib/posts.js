@@ -3,6 +3,8 @@ import { getReadingTime } from './readingtime.js';
 async function load() {
   const fetchedPosts = import.meta.globEager('../pages/posts/*.md');
 
+  // const nonDraftPosts = posts.filter((post) => !post.frontmatter.draft);
+  
   const getPost = async (key) => {
     const url = key.replace('../pages/', '/').replace('.md', '/');
     const awaitedPost = await fetchedPosts[key].default();
@@ -12,7 +14,7 @@ async function load() {
     );
     item.numberOfWords = numberOfWords;
     item.readingTime = readingTime;
-
+console.log(item.draft)
     return item;
   };
 
@@ -21,7 +23,7 @@ async function load() {
     return awaitedPost;
   });
 
-  const results = await Promise.all(mappedPosts);
+  const results = await Promise.all(mappedPosts);  
   return results;
 }
 
