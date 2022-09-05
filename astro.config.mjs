@@ -7,6 +7,7 @@ export default defineConfig({
   sitemap: false,
   integrations: [tailwind()],
   markdown: {
+    drafts: false,
     rehypePlugins: [
       'rehype-slug',
       [
