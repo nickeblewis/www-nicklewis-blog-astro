@@ -10,6 +10,7 @@ import Webmentions from '../components/Webmentions.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import { getReadingTime } from '../lib/readingtime.js';
 import { dateFilter } from '../lib/dateFilter.js';
+import { YouTube } from '@astro-community/astro-embed-youtube';
 const { content } = Astro.props;
 const canonicalURL = Astro.canonicalURL;
 const mdURL = canonicalURL.pathname.replace(/\/$/, '.md');
@@ -68,6 +69,7 @@ const isoDate = articleDate.toISOString();
       <article
         class='mx-4 prose prose-lg md:prose-xl dark:prose-invert md:mx-auto'
       >
+        {content.video && <YouTube id={content.video} />}
         <slot></slot>
         <div class='text-right'>
           <a
