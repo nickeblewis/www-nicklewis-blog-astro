@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 const CACHE_FILE_PATH = '_cache/webmentions.json';
-const OWNER_PROFILE = 'https://twitter.com/DailyDevTips1';
+const OWNER_PROFILE = 'https://twitter.com/nicklewis';
 const validProperties = ['like-of', 'repost-of', 'mention-of', 'in-reply-to'];
 
 const readCache = async () => {
@@ -27,7 +27,7 @@ notMyOwn = (authorURL) => authorURL !== OWNER_PROFILE;
 
 isForURL = (url) => {
   return (webmention) =>
-    compareURLs(webmention['wm-target'], url) &&
+    compareURLs(webmention['wm-target'], url)  &&
     notMyOwn(webmention.author.url);
 };
 

@@ -11,12 +11,14 @@ const webmentionsToShow = webmentions.slice(0, NUMBER_OF_MENTIONS_TO_SHOW);
 <ul class={`${offsetLabel && 'justify-center'} flex my-6 pl-3`}>
   {webmentionsToShow.map((webmention) => (
     <li class='-ml-3'>
+    <a href={webmention?.url}>
       <img
         alt={`${webmention?.author?.name} profile picture`}
         class='border border-white rounded-full w-7 h-7'
         src={webmention?.author?.photo}
         loading='lazy'
       />
+      </a>
     </li>
   ))}
   <li
