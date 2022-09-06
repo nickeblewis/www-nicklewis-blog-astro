@@ -73,7 +73,7 @@ import Test from '../components/Test.vue';
 <Test />
 ```
 
-I've pushed my example up to the server, so click on this link and you'll see it. A simple example but now, I can write components for this site using Vue which is essential, as I will be writing about it a lot here and want to share some examples!
+I've pushed my example up to the server, so click on [this link](https://nicklewis.blog/testpage) and you'll see it. A simple example but now, I can write components for this site using Vue which is essential, as I will be writing about it a lot here and want to share some examples!
 
 ## Where from here?
 Well, the sky is the limit, I would like to build some components, some specifically for this site and others that you could use.
