@@ -13,11 +13,13 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^0.2.1",
+    "@astrojs/vue": "^1.0.0",
     "astro": "^1.0.0-beta.57",
-    "autoprefixer": "^10.3.7",
+    "autoprefixer": "^10.4.8",
     "feed": "^4.2.2",
     "prettier-plugin-astro": "^0.1.1",
-    "tailwindcss": "^3.1.4"
+    "tailwindcss": "^3.1.4",
+    "vue": "^3.2.38"
   },
   "dependencies": {
     "@astro-community/astro-embed-youtube": "^0.1.1",
