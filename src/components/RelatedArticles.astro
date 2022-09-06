@@ -6,6 +6,7 @@ const allPosts = await getAllPosts();
 
 const searchTagsCount = tags.length;
 const mappedTags = allPosts
+  .filter((post) => !post.draft)
   .filter(({ url }) => url !== currentPathname)
   .filter(a => new Date(a.date) <= new Date())
   .sort((a, b) => new Date(b.date) - new Date(a.date))

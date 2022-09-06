@@ -20,7 +20,7 @@ export async function getStaticPaths({ rss }) {
   ];
 
   return allTags.map((tag) => {
-    const postsForTag = allPosts.filter((post) => post.tags.includes(tag));
+    const postsForTag = allPosts.filter((post) => post.tags.includes(tag)).filter((post) => !post.draft);
     return {
       params: { slug: tag },
       props: { allTags, postsForTag },

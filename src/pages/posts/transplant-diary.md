@@ -7,7 +7,7 @@ image: /images/kidney.jpg
 date: 2022-02-09T03:00:00.000Z
 tags:
   - personal
-  - journey
+  - journal
 ---
 
 In the year 2002 I ended up in hospital for 3 days and it was a total shock. One minute I considered myself to be healthy and normal, the next I was on my way to hospital. What on earth was going on? I wasn't even ill.

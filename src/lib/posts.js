@@ -14,7 +14,7 @@ async function load() {
     );
     item.numberOfWords = numberOfWords;
     item.readingTime = readingTime;
-console.log(item.draft)
+
     return item;
   };
 
