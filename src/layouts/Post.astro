@@ -70,6 +70,7 @@ const isoDate = articleDate.toISOString();
         class='mx-4 prose prose-lg md:prose-xl dark:prose-invert md:mx-auto'
       >
         {content.video && <YouTube id={content.video} />}
+        {content.cover && <img src={content.image} />}
         <slot></slot>
         <div class='text-right'>
           <a
