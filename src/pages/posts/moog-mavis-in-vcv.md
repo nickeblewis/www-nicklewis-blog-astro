@@ -12,4 +12,4 @@ tags:
 top: false
 draft: true
 ---
-Moog are a phenomenal synth maker and 
+Moog are a phenomenal synth maker and stuff
